@@ -1,0 +1,14 @@
+
+.left{
+     background: seagreen;
+     width: 30%;
+     float: left;
+     height: 500px;
+   }
+   
+   .right{
+     background: skyblue;
+     width: 70%;
+     height: 500px;
+     float: left;
+   }
